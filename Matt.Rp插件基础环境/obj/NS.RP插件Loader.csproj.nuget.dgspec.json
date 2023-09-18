@@ -1,0 +1,57 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Matt\\.Net_C#开发\\Matt插件\\UN插件\\免费插件\\Matt.Rp插件基础环境\\NS.RP插件Loader.csproj": {}
+  },
+  "projects": {
+    "C:\\Matt\\.Net_C#开发\\Matt插件\\UN插件\\免费插件\\Matt.Rp插件基础环境\\NS.RP插件Loader.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Matt\\.Net_C#开发\\Matt插件\\UN插件\\免费插件\\Matt.Rp插件基础环境\\NS.RP插件Loader.csproj",
+        "projectName": "Matt.Rp插件基础环境",
+        "projectPath": "C:\\Matt\\.Net_C#开发\\Matt插件\\UN插件\\免费插件\\Matt.Rp插件基础环境\\NS.RP插件Loader.csproj",
+        "packagesPath": "C:\\Users\\Matt\\.nuget\\packages\\",
+        "outputPath": "C:\\Matt\\.Net_C#开发\\Matt插件\\UN插件\\免费插件\\Matt.Rp插件基础环境\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Matt\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "targetAlias": "net472",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "targetAlias": "net472",
+          "dependencies": {
+            "FreeSql": {
+              "target": "Package",
+              "version": "[3.2.685, )"
+            },
+            "FreeSql.Provider.MySqlConnector": {
+              "target": "Package",
+              "version": "[3.2.685, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

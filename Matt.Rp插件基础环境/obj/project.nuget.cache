@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "vZTVLhFF4/kNR1uBcuP3Ev/nswptNtfD6TL4N/xyWBSQ4bDu2J6xASCLCKKkGy3XMivGAEYy7U6nq57JC5Yu0Q==",
+  "success": true,
+  "projectFilePath": "D:\\Matt\\.Net_C#开发\\Matt插件\\UN插件\\免费插件\\Matt.Rp插件基础环境\\Matt.RP插件Loader.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\24722\\.nuget\\packages\\freesql\\3.2.698\\freesql.3.2.698.nupkg.sha512",
+    "C:\\Users\\24722\\.nuget\\packages\\freesql.provider.mysql\\3.2.698\\freesql.provider.mysql.3.2.698.nupkg.sha512",
+    "C:\\Users\\24722\\.nuget\\packages\\google.protobuf\\3.19.4\\google.protobuf.3.19.4.nupkg.sha512",
+    "C:\\Users\\24722\\.nuget\\packages\\k4os.compression.lz4\\1.2.6\\k4os.compression.lz4.1.2.6.nupkg.sha512",
+    "C:\\Users\\24722\\.nuget\\packages\\k4os.compression.lz4.streams\\1.2.6\\k4os.compression.lz4.streams.1.2.6.nupkg.sha512",
+    "C:\\Users\\24722\\.nuget\\packages\\k4os.hash.xxhash\\1.0.6\\k4os.hash.xxhash.1.0.6.nupkg.sha512",
+    "C:\\Users\\24722\\.nuget\\packages\\mysql.data\\8.0.30\\mysql.data.8.0.30.nupkg.sha512",
+    "C:\\Users\\24722\\.nuget\\packages\\portable.bouncycastle\\1.9.0\\portable.bouncycastle.1.9.0.nupkg.sha512",
+    "C:\\Users\\24722\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\24722\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\24722\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\24722\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

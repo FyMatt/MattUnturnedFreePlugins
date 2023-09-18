@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>NS.RP插件Loader</id>
+    <version>1.0.0</version>
+    <authors>Matt</authors>
+    <icon>logo.png</icon>
+    <description>Package Description</description>
+    <copyright>Matt</copyright>
+    <dependencies>
+      <group targetFramework=".NETFramework4.7.2">
+        <dependency id="FreeSql" version="3.2.685" exclude="Build,Analyzers" />
+        <dependency id="FreeSql.Provider.MySqlConnector" version="3.2.685" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <contentFiles>
+      <files include="any/net472/logo.ico" buildAction="Content" />
+    </contentFiles>
+  </metadata>
+  <files>
+    <file src="C:\Matt\.Net_C#开发\独自开发插件\Matt插件\NS.RP插件Loader\bin\Debug\net472\NS.RP插件Loader.dll" target="lib\net472\NS.RP插件Loader.dll" />
+    <file src="C:\Matt\.Net_C#开发\独自开发插件\Matt插件\NS.RP插件Loader\logo.ico" target="content\logo.ico" />
+    <file src="C:\Matt\.Net_C#开发\独自开发插件\Matt插件\NS.RP插件Loader\logo.ico" target="contentFiles\any\net472\logo.ico" />
+    <file src="C:\Matt\Night Logo\logo.png" target="\logo.png" />
+  </files>
+</package>
